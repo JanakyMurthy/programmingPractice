@@ -1,2 +1,6 @@
 1. Tutorial to understand hash maps and it's implementation in C
 http://eternallyconfuzzled.com/tuts/datastructures/jsw_tut_hashtable.aspx
+
+
+2. QSORT library function in c
+http://www.tutorialspoint.com/c_standard_library/c_function_qsort.htm
