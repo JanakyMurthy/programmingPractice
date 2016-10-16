@@ -5,6 +5,10 @@
 #include <algorithm>
 using namespace std;
 /* Author : Janaky Murthy */
+/* Implements Min Heap 
+ * Returns the min element O(1) time
+ * Insertion and deletion take logarthimic time
+ */
 class min_heap
 {
     /* to store heap elements */
